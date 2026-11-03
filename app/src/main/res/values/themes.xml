@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.CurrencyConverter" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/turquoise_fond</item>
+        <item name="colorPrimaryDark">#1BA6C9</item>
+        <item name="colorAccent">@color/turquoise_clavier</item>
+        <item name="android:windowBackground">@color/fond_clavier</item>
+    </style>
+</resources>
